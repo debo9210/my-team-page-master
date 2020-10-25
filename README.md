@@ -37,7 +37,7 @@
 ## Overview
 
 <div align="center">
-    <img src="images/my-team.png" width="400px"</img> 
+    <img src="/images/my-team.png" width="400px"</img> 
 </div>
 
 
