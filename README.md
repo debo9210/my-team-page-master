@@ -36,7 +36,9 @@
 
 ## Overview
 
-![screenshot](https://raw.github.com/debo9210/my-team-page-master/main/images/my-team.png)
+<div align="center">
+    <img src="images/my-team.png" width="400px"</img> 
+</div>
 
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
